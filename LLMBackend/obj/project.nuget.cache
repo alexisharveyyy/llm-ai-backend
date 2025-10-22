@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "GB/YHa1hYfI=",
+  "success": true,
+  "projectFilePath": "/Users/alexisharvey/llm-ai-backend/LLMBackend/LLMBackend.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexisharvey/.nuget/packages/azure.ai.openai/2.5.0-beta.1/azure.ai.openai.2.5.0-beta.1.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/azure.core/1.49.0/azure.core.1.49.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.ai/9.9.1/microsoft.extensions.ai.9.9.1.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.ai.abstractions/9.9.1/microsoft.extensions.ai.abstractions.9.9.1.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.ai.openai/9.9.1-preview.1.25474.6/microsoft.extensions.ai.openai.9.9.1-preview.1.25474.6.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.9/microsoft.extensions.caching.abstractions.9.0.9.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.9/microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.9/microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.primitives/9.0.9/microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.extensions.vectordata.abstractions/9.7.0/microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.semantickernel/1.66.0/microsoft.semantickernel.1.66.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.semantickernel.abstractions/1.66.0/microsoft.semantickernel.abstractions.1.66.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.semantickernel.connectors.azureopenai/1.66.0/microsoft.semantickernel.connectors.azureopenai.1.66.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.semantickernel.connectors.openai/1.66.0/microsoft.semantickernel.connectors.openai.1.66.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/microsoft.semantickernel.core/1.66.0/microsoft.semantickernel.core.1.66.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/openai/2.5.0/openai.2.5.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/system.clientmodel/1.7.0/system.clientmodel.1.7.0.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512",
+    "/Users/alexisharvey/.nuget/packages/system.numerics.tensors/9.0.8/system.numerics.tensors.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
